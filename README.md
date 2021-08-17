@@ -1,2 +1,3 @@
 # BridgeCrossing
-A university project about A Star algorithm inspired by the Bridge Riddle
+
+A university project about Bridge Riddle using A Star algorithm.
